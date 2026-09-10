@@ -1,0 +1,81 @@
+
+I am going to **paste the complete content of a Software Engineering lab task Word document directly into this chat**.
+
+Treat the pasted content as the **main and authoritative source** for the task.
+
+Your job is to create a complete, practical, step-by-step **SOLUTION GUIDE** for the lab and provide it as a **NEW Microsoft Word (.docx) file**.
+
+### Requirements
+
+1. Read and understand **the entire content I paste** before creating the guide.
+2. Follow the **exact structure and numbering** of the original task:
+
+   * Part I
+   * 1.a
+   * 1.b
+   * 1.c
+   * etc.
+3. Give the solution for **EVERY question/task and every mark**. Do not skip anything.
+4. This is a **practical lab**, so explain **HOW TO ACTUALLY PERFORM** each task, not just the theory answer.
+5. Assume I am a **complete beginner** and give instructions from **SCRATCH**.
+6. For **Eclipse tasks**:
+
+   * Tell me exactly what to click.
+   * Mention menu names, buttons, project settings, folders, etc.
+   * Give the exact code/configuration I need to enter.
+7. For **Git/GitHub tasks**:
+
+   * Give the exact commands.
+   * Explain briefly what each command does.
+   * Show the correct order in which to execute them.
+8. For **Maven tasks**:
+
+   * Give the exact `pom.xml` changes/code required.
+   * Give the exact Maven commands.
+   * Explain how to verify that they worked.
+9. For **Docker tasks**:
+
+   * Give the exact Dockerfile/code.
+   * Give the exact build/run/stop/log/troubleshooting commands.
+   * Explain what I should see at each important step.
+10. If the task involves **troubleshooting/errors**:
+
+    * Explain the likely cause.
+    * Give the exact commands/settings to check.
+    * Give the exact fix.
+11. If multiple approaches are possible, give the **simplest/recommended approach for a beginner first**.
+12. Clearly separate each practical instruction into:
+
+    * **WHAT TO DO**
+    * **WHAT TO TYPE**
+    * **WHAT TO CLICK**
+    * **EXPECTED RESULT**
+13. Include important warnings such as:
+
+    * Which folder I should be in.
+    * Which branch I should be on.
+    * Whether a command is safe or changes/deletes something.
+    * When I should **NOT** repeat a command.
+14. **Do not invent requirements** that are not present in the pasted task.
+15. Stay faithful to the original task's terminology, structure, requirements, and numbering.
+16. If something is unclear or not specified in the task, **clearly say that instead of silently assuming**.
+17. At the end of the guide, include:
+
+    * A **complete final execution order** for the practical lab.
+    * A **quick revision/command sheet**.
+    * **Important answers to memorize** for the lab/viva.
+
+### Important
+
+* Make the guide easy enough that I can **follow it directly while doing the lab in Eclipse/terminal**.
+* Do **NOT** create only an answer sheet.
+* I want a **HANDS-ON STEP-BY-STEP GUIDE**.
+* Keep explanations **simple and beginner-friendly**.
+* Preserve the **original question numbering** so I can easily match every solution to the lab question.
+* Use the **pasted task content as the main source**. Do not replace or alter its requirements based on assumptions.
+
+### Final Output
+
+After reading the complete content I paste, create the **entire solution guide as a properly formatted Microsoft Word `.docx` file** and provide the file to me.
+
+**I will now paste the complete Word document content below.**
